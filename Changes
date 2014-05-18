@@ -1,3 +1,4 @@
 Revision history for Dist::Zilla::Plugin::ContributorsFromPod
 
 {{$NEXT}}
+    - initial release, needs tests
